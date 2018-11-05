@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>43FC458E-F1EE-4AE2-8564-4E04E5021085</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>43FC458E-F1EE-4AE2-8564-4E04E5021085.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Hello Color project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Hello Color</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>0</integer>
+			<key>signature</key>
+			<string>Build Hello Color</string>
+			<key>timeStartedRecording</key>
+			<real>557178882.22149003</real>
+			<key>timeStoppedRecording</key>
+			<real>557178884.57792795</real>
+			<key>title</key>
+			<string>Build Hello Color</string>
+			<key>uniqueIdentifier</key>
+			<string>43FC458E-F1EE-4AE2-8564-4E04E5021085</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.0.36 clang-1000.10.44)"
+options: "abcf43b9f699375f8ff4e62024f8c227"
+build_time: [1535486082, 289787000]
+inputs:
+  "/Users/devslopes/Desktop/Hello Color/Hello Color/ViewController.swift": [1535486055, 0]
+  "/Users/devslopes/Desktop/Hello Color/Hello Color/AppDelegate.swift": [1535485668, 0]
